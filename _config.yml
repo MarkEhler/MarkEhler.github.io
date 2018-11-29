@@ -1,11 +1,11 @@
 # Site settings
 author: Mark Ehler
-title: 
+title: Deeper Thinking
 header-img: img/home-bg.png
 email: ehlerm42@gmail.com
 copyright_name: Mark Ehler
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Tiny details and how they fit into the bigger picture 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MarkEhler

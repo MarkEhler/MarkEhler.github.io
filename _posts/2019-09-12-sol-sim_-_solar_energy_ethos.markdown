@@ -1,13 +1,16 @@
 ---
 layout: post
 title:      "Sol-Sim - Solar Energy Ethos "
-date:       2019-09-12 15:09:46 +0000
+date:       2019-09-12 11:09:47 -0400
 permalink:  sol-sim_-_solar_energy_ethos
 ---
 
 
 
 Sol-Sim is a sunlight simulation that was developed to clear the cloudy skies obscuring the high skies of solar energy.   This educational tool should help people  gain more confidence in an eventual commitment or simply educate more  people about solar energy. Sol-Sim is an honest attempt to simulate the output of a solar panel without any expectations that the user invest and so hopefully can give an unbiased look into some of the key factors which can determine the effectiveness of a solar array.
+<br>
+<br>
+currently you can view this simulator [here ](https://sol-sim1.herokuapp.com/)
 <br>
 <br>
 

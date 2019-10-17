@@ -33,7 +33,7 @@ I have found two things in my time working with weather data on this project and
 <br>
 <br>
   We can easily bypass an astronomy lecture by thinking of a solar window.  This window is an imaginary box in the sky.  The box is different depending on your location on Earth and inside of it the sun likes to shine down on you for most of the time, most of the year.  While the sun is inside this solar window is when plants, sunbathers, and solar arrays are most effective at what they do.  The goal of all these things should be to trace a short and direct path from themselves and the sun.  That is to say, a solar array will be most effective when positioned correctly and when experiencing direct sunlight.<br>
-![](http://)
+
 <a href="https://imgur.com/idvVoNZ"><img src="https://i.imgur.com/idvVoNZ.png" title="solar window" width="300" height="250", STYLE = "float: right;" /></a>
 <br>
   So, if you had one day to spend getting a tan, spend it on the summer solstice, when the sun is most directly overhead, closest to you, and lighting the sky for the longest amount of time.  The majority of **this app is designed to register the directness of sunlight** adjusted for what the weather might be on a given day in a given place.  Although I’ve done some math on the outputs to help give more information to the user, in its current state, I have no way of checking to make sure that the angle, direction and surrounding trees concerning a solar array site (or rooftop) are best suited for panels.
@@ -43,7 +43,7 @@ I have found two things in my time working with weather data on this project and
   I would like to improve this app in the future to look at the user coordinates of the site using computer vision to check these factors and return a rating or heatmap of efficiency.  As is, this app wraps an XGBoost model in Flask framework and launched on Heroku to create my first attempt at a live app.  If you want to see more of my work you can find me on [GitHub](https://github.com/MarkEhler), on my blog.  Or feel free to reach out to me directly on [Linkedin](https://www.linkedin.com/in/mark-ehler-85052548/) with feedback or comments.
 <br>
 <br>
-Have a sunny day<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f31e.png" width=20 height=20>
+Have a sunny day<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f31e.png" width=15 height=15>
 
 
 
